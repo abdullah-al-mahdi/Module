@@ -18,7 +18,8 @@ body {
 
 /* heading1__box */
 .heading1__box {
-   min-height: 158px;
+   padding-top: 20px;
+   min-height: 118px;
 }
 
 /* module1__item */
@@ -30,7 +31,6 @@ body {
    background-color: #fff;
    border: 1px solid #D0D6DD;
    border-radius: 10px;
-   padding-top: 40px;
    margin-bottom: 40px;
    margin-top: 10px;
 }
