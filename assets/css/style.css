@@ -1,0 +1,267 @@
+body {
+   background-color: #F9F9FA;
+   font-family: Arial, Helvetica, sans-serif;
+   padding-top: 30px;
+   line-height: auto;
+   padding-bottom: 10px;
+}
+
+/* heading1 */
+.heading1 {
+   padding: 0px 200px;
+}
+
+/* module1 */
+.module1 {
+   padding: 0px 200px;
+}
+
+/* heading1__box */
+.heading1__box {
+   min-height: 158px;
+}
+
+/* module1__item */
+.module1__item {
+   min-height: 300px;
+}
+
+.heading1__box {
+   background-color: #fff;
+   border: 1px solid #D0D6DD;
+   border-radius: 10px;
+   padding-top: 40px;
+   margin-bottom: 40px;
+   margin-top: 10px;
+}
+
+.heading1__box_left {
+   padding-left: 80px;
+}
+
+.heading1__box_left h2 {
+   font-size: 32px;
+   font-style: italic;
+   font-weight: bold;
+   color: #2B2B2D;
+}
+
+.heading1__box_left p {
+   font-size: 18px;
+   font-weight: bold;
+   font-style: italic;
+   color: #6E7276;
+}
+
+.heading1__box_left p span:nth-child(2) {
+   margin-left: 80px;
+}
+
+.heading1__box_right {
+   padding-right: 80px;
+}
+
+.heading1__box_right h1 {
+   color: #000;
+   font-weight: 900;
+   font-size: 48px;
+   padding-top: 6px;
+}
+
+.module1__item {
+   background-color: #fff;
+   border: 1px solid #D0D6DD;
+   border-radius: 10px;
+   margin-bottom: 30px;
+   padding: 35px 30px;
+   transition: 0.3s;
+}
+
+.module1__item:hover {
+   border-color: #000;
+}
+
+.module1__item:hover .module1__data {
+   border-color: #000;
+}
+
+.module1__data {
+   margin-bottom: 24px;
+   padding-bottom: 11px;
+   border-bottom: 1px solid #D0D6DD;
+   transition: 0.3s;
+}
+
+.module1__number {
+   background-color: #F2F2F2;
+   width: 80px;
+   height: 60px;
+   border-radius: 5px;
+   padding-top: 9px;
+}
+
+.module1__number h5 {
+   font-size: 15px;
+   font-weight: bold;
+   color: #6E7276;
+   margin-bottom: 0px;
+}
+
+.module1__number span {
+   font-size: 20px;
+   font-weight: bold;
+   color: #6E7276;
+}
+
+.module1__date span {
+   font-size: 12px;
+   font-weight: bold;
+   font-style: italic;
+   background-color: #F2F2F2;
+   padding: 4px 10px;
+   border-radius: 15px;
+   color: #6E7276;
+}
+
+.module1__position {
+   background-color: #F2F2F2;
+   width: 80px;
+   height: 60px;
+   border-radius: 5px;
+   padding-top: 18px;
+}
+
+.module1__position span {
+   color: #6E7276;
+   font-size: 13px;
+   font-weight: bold;
+}
+
+.module1__content h2 {
+   font-size: 18px;
+   font-weight: bold;
+   color: #2B2B2D;
+   margin-bottom: 18px;
+}
+
+.module1__content h2 span.text_danger {
+   color: red;
+}
+
+.module1__content ul {
+   margin: 0px;
+   padding: 0px;
+}
+
+.module1__content li {
+   list-style: none;
+   display: inline-block;
+   position: relative;
+   padding-left: 20px;
+}
+
+.module1__content li::before {
+   position: absolute;
+   font-family: "Font Awesome 6 Free";
+   content: '\f111';
+   font-weight: 500;
+   font-size: 14px;
+   color: #6E7276;
+   left: 0px;
+   top: 2px;
+}
+
+.module1__content li:not(:first-child) {
+   margin-left: 20px;
+}
+
+.module1__content li span {
+   font-size: 13px;
+   color: #6E7276;
+}
+
+.module1__content li.text_danger::before {
+   color: red;
+}
+
+.module1__content li.text_danger span {
+   color: red;
+}
+
+/* Ongoing */
+.col.Ongoing .module1__position {
+   background-color: #6CB901;
+}
+
+.col.Ongoing .module1__position span {
+   color: #fff;
+}
+
+.col.Ongoing .module1__number {
+   background-color: #6CB901;
+}
+
+.col.Ongoing .module1__number h5 {
+   color: #fff;
+}
+
+.col.Ongoing .module1__number span {
+   color: #fff;
+}
+
+.col.Ongoing .module1__date span {
+   background-color: #6CB901;
+   color: #fff;
+}
+
+/* Upcoming */
+.col.Upcoming .module1__position {
+   background-color: #F76402;
+}
+
+.col.Upcoming .module1__position span {
+   color: #fff;
+}
+
+.col.Upcoming .module1__number {
+   background-color: #F76402;
+}
+
+.col.Upcoming .module1__number h5 {
+   color: #fff;
+}
+
+.col.Upcoming .module1__number span {
+   color: #fff;
+}
+
+.col.Upcoming .module1__date span {
+   background-color: #F76402;
+   color: #fff;
+}
+
+/* Upcoming */
+.col.Finished .module1__position {
+   background-color: #7952B3;
+}
+
+.col.Finished .module1__position span {
+   color: #fff;
+}
+
+.col.Finished .module1__number {
+   background-color: #7952B3;
+}
+
+.col.Finished .module1__number h5 {
+   color: #fff;
+}
+
+.col.Finished .module1__number span {
+   color: #fff;
+}
+
+.col.Finished .module1__date span {
+   background-color: #7952B3;
+   color: #fff;
+}
