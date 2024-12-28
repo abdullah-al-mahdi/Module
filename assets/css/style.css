@@ -170,8 +170,8 @@ body {
    top: 2px;
 }
 
-.module1__content li:not(:first-child) {
-   margin-left: 10px;
+.module1__content li {
+   margin-right: 10px;
 }
 
 .module1__content li span {
