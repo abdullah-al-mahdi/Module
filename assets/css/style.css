@@ -201,6 +201,7 @@ body {
 
 .module1__content li.ui_danger span {
    color: #198754;
+   text-decoration: underline;
 }
 
 /* Ongoing */
