@@ -187,6 +187,7 @@ body {
 
 .module1__content li.wp_danger span {
    color: #0d6efd;
+   text-decoration: underline;
 }
 
 /* ui_danger */
