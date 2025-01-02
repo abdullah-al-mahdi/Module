@@ -182,7 +182,7 @@ body {
 }
 
 .module1__content li.wp_danger::before {
-   color: red;
+   color: #F76402;
 }
 
 .module1__content li.wp_danger span {
@@ -195,7 +195,7 @@ body {
 }
 
 .module1__content li.ui_danger::before {
-   color: red;
+   color: #F76402;
 }
 
 .module1__content li.ui_danger span {
