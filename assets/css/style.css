@@ -143,10 +143,6 @@ body {
    margin-bottom: 18px;
 }
 
-.module1__content h2 span.text_danger {
-   color: red;
-}
-
 .module1__content ul {
    margin: 0px;
    padding: 0px;
@@ -180,11 +176,15 @@ body {
    color: #6E7276;
 }
 
-.module1__content li.text_danger::before {
+.module1__content h2 span.wp_danger {
+   color: #0d6efd;
+}
+
+.module1__content li.wp_danger::before {
    color: red;
 }
 
-.module1__content li.text_danger span {
+.module1__content li.wp_danger span {
    color: red;
 }
 
