@@ -176,6 +176,7 @@ body {
    color: #6E7276;
 }
 
+/* wp_danger */
 .module1__content h2 span.wp_danger {
    color: #0d6efd;
 }
@@ -185,6 +186,19 @@ body {
 }
 
 .module1__content li.wp_danger span {
+   color: red;
+}
+
+/* ui_danger */
+.module1__content h2 span.ui_danger {
+   color: #198754;
+}
+
+.module1__content li.ui_danger::before {
+   color: red;
+}
+
+.module1__content li.ui_danger span {
    color: red;
 }
 
