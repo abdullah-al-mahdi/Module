@@ -145,7 +145,7 @@ body {
    padding-left: 20px;
 }
 
-.module1__content li::before {
+/* .module1__content li::before {
    position: absolute;
    font-family: "Font Awesome 6 Free";
    content: '\f0c8';
@@ -154,7 +154,7 @@ body {
    color: #7952B3;
    left: 0px;
    top: 0px;
-}
+} */
 
 .module1__content li.date::before {
    content: '\f133';
