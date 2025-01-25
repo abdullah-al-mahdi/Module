@@ -140,7 +140,7 @@ body {
 
 .module1__content li {
    list-style-type: decimal-leading-zero;
-   display: inline;
+   /* display: inline; */
    position: relative;
    padding-left: 20px;
 }
