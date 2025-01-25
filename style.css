@@ -146,18 +146,18 @@ body {
 }
 
 .module1__content li::before {
-   /* position: absolute;
+   position: absolute;
    font-family: "Font Awesome 6 Free";
    content: '\f0c8';
    font-weight: 500;
    font-size: 14px;
    color: #7952B3;
    left: 0px;
-   top: 0px; */
+   top: 0px;
 }
 
 .module1__content li.date::before {
-   /* content: '\f133'; */
+   content: '\f133';
 }
 
 .module1__content li {
