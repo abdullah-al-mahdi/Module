@@ -139,7 +139,7 @@ body {
 }
 
 .module1__content li {
-   list-style: none;
+   /* list-style: none; */
    display: inline;
    position: relative;
    padding-left: 20px;
