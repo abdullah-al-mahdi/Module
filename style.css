@@ -128,6 +128,7 @@ h1.title.active {
    font-weight: bold;
    font-style: italic;
    color: #6E7276;
+   padding: 0px 10px;
 }
 
 .module1__position {
