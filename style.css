@@ -64,6 +64,14 @@ b {
    font-weight: 900;
    font-size: 40px;
    line-height: 1;
+   margin-bottom: 0px;
+}
+
+.heading1__box_right h1 {
+   color: #000;
+   font-size: 30px;
+   line-height: 1;
+   margin-bottom: 0px;
 }
 
 .module1__item {
