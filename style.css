@@ -14,22 +14,19 @@ b {
    color: #2B2B2D;
 }
 
-/* heading1__box */
-.heading1__box {
-   padding-top: 24px;
-   min-height: 118px;
-}
-
 /* module1__item */
 .module1__item {
    min-height: 360px;
 }
 
+/* heading1__box */
 .heading1__box {
    background-color: #e5e5e6;
    border: 1px solid #D0D6DD;
    border-radius: 10px;
    margin-bottom: 24px;
+   padding-top: 24px;
+   min-height: 118px;
 }
 
 .heading1__box_left {
