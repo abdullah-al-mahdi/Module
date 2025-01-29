@@ -28,11 +28,13 @@ h1.title {
    padding: 15px 0px;
    border-radius: 10px;
    margin-bottom: 15px;
+   border: 1px solid #D0D6DD;
 }
 
 h1.title.active {
    background-color: #6CB901;
    color: #fff;
+   border-color: #6CB901;
 }
 
 /* heading1__box */
