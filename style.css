@@ -41,6 +41,8 @@ b {
    font-style: italic;
    font-weight: bold;
    color: #2B2B2D;
+   line-height: 1;
+   margin-bottom: 0px;
 }
 
 .heading1__box_left p {
@@ -48,10 +50,12 @@ b {
    font-weight: bold;
    font-style: italic;
    color: #6E7276;
+   line-height: 1;
+   margin-bottom: 0px;
 }
 
 .heading1__box_left p span:nth-child(2) {
-   margin-left: 80px;
+   margin-left: 50px;
 }
 
 .heading1__box_right {
