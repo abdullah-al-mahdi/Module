@@ -52,7 +52,7 @@ h1.title.active {
    padding-left: 25px;
 }
 
-.heading1__box_left h2 {
+h2 {
    font-size: 40px;
    font-weight: 900;
    color: #000;
@@ -74,14 +74,6 @@ h1.title.active {
 
 .heading1__box_right {
    padding-right: 25px;
-}
-
-.heading1__box_right h1 {
-   color: #000;
-   font-weight: 900;
-   font-size: 40px;
-   line-height: 1;
-   margin-bottom: 13px;
 }
 
 .heading1__box_right h3 {
