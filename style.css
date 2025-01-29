@@ -50,15 +50,14 @@ h1.title.active {
 
 .heading1__box_left h2 {
    font-size: 30px;
-   font-style: italic;
-   font-weight: bold;
+   font-weight: 900;
    color: #fff;
    line-height: 1;
-   margin-bottom: 30px;
+   margin-bottom: 15px;
 }
 
 .heading1__box_left p {
-   font-size: 20px;
+   font-size: 18px;
    font-weight: bold;
    color: #ccc;
    line-height: 1;
