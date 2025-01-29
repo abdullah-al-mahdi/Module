@@ -14,11 +14,6 @@ b {
    color: #2B2B2D;
 }
 
-/* module1__item */
-.module1__item {
-   min-height: 360px;
-}
-
 h1.title {
    font-size: 18px;
    font-weight: bold;
@@ -77,6 +72,7 @@ h5 {
 }
 
 .module1__item {
+   min-height: 360px;
    background-color: #fff;
    border: 1px solid #D0D6DD;
    border-radius: 10px;
