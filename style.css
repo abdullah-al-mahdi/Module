@@ -21,8 +21,8 @@ b {
 
 /* heading1__box */
 .heading1__box {
-   background-color: #e5e5e6;
-   border: 1px solid #D0D6DD;
+   background-color: #000;
+   /* border: 1px solid #D0D6DD; */
    border-radius: 10px;
    margin-bottom: 24px;
    padding-top: 24px;
@@ -37,7 +37,7 @@ b {
    font-size: 30px;
    font-style: italic;
    font-weight: bold;
-   color: #2B2B2D;
+   color: #fff;
    line-height: 1;
    margin-bottom: 0px;
 }
@@ -46,7 +46,7 @@ b {
    font-size: 16px;
    font-weight: bold;
    font-style: italic;
-   color: #6E7276;
+   color: #fff;
    line-height: 1;
    margin-bottom: 0px;
 }
@@ -60,7 +60,7 @@ b {
 }
 
 .heading1__box_right h1 {
-   color: #000;
+   color: #fff;
    font-weight: 900;
    font-size: 40px;
    line-height: 1;
@@ -68,7 +68,7 @@ b {
 }
 
 .heading1__box_right h3 {
-   color: #000;
+   color: #fff;
    font-size: 25px;
    line-height: 1;
    margin-bottom: 0px;
