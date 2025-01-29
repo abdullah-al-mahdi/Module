@@ -26,6 +26,7 @@ b {
    border-radius: 10px;
    margin-bottom: 24px;
    padding-top: 40px;
+   padding-bottom: 40px;
    min-height: 118px;
 }
 
@@ -64,7 +65,7 @@ b {
    font-weight: 900;
    font-size: 40px;
    line-height: 1;
-   margin-bottom: 20px;
+   margin-bottom: 13px;
 }
 
 .heading1__box_right h3 {
