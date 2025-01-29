@@ -37,11 +37,10 @@ h1.title.active {
 /* heading1__box */
 .heading1__box {
    background-color: #333;
-   /* border: 1px solid #D0D6DD; */
    border-radius: 10px;
    margin-bottom: 24px;
    padding-top: 40px;
-   padding-bottom: 40px;
+   padding-bottom: 0px;
    min-height: 118px;
 }
 
@@ -59,9 +58,8 @@ h1.title.active {
 }
 
 .heading1__box_left p {
-   font-size: 16px;
+   font-size: 20px;
    font-weight: bold;
-   font-style: italic;
    color: #ccc;
    line-height: 1;
    margin-bottom: 0px;
