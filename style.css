@@ -34,7 +34,7 @@ b {
 }
 
 .heading1__box_left h2 {
-   font-size: 25px;
+   font-size: 40px;
    font-style: italic;
    font-weight: bold;
    color: #2B2B2D;
@@ -62,8 +62,8 @@ b {
 .heading1__box_right h1 {
    color: #000;
    font-weight: 900;
-   font-size: 44px;
-   padding-top: 6px;
+   font-size: 40px;
+   line-height: 1;
 }
 
 .module1__item {
