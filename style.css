@@ -23,12 +23,12 @@ h1.title {
    font-size: 18px;
    font-weight: bold;
    background-color: #F2F2F2;
+   border: 1px solid #D0D6DD;
    color: #6E7276;
    text-align: center;
    padding: 15px 0px;
    border-radius: 10px;
    margin-bottom: 15px;
-   border: 1px solid #D0D6DD;
 }
 
 h1.title.active {
@@ -39,7 +39,8 @@ h1.title.active {
 
 /* heading1__box */
 .heading1__box {
-   background-color: #333;
+   background-color: #F2F2F2;
+   border: 1px solid #D0D6DD;
    border-radius: 10px;
    margin-bottom: 24px;
    padding-top: 40px;
@@ -55,7 +56,7 @@ h1.title.active {
 .heading1__box_left h2 {
    font-size: 30px;
    font-weight: 900;
-   color: #fff;
+   color: #000;
    line-height: 1;
    margin-bottom: 15px;
 }
@@ -63,7 +64,7 @@ h1.title.active {
 .heading1__box_left p {
    font-size: 18px;
    font-weight: bold;
-   color: #ccc;
+   color: #333;
    line-height: 1;
    margin-bottom: 0px;
 }
@@ -77,7 +78,7 @@ h1.title.active {
 }
 
 .heading1__box_right h1 {
-   color: #fff;
+   color: #000;
    font-weight: 900;
    font-size: 40px;
    line-height: 1;
@@ -85,7 +86,7 @@ h1.title.active {
 }
 
 .heading1__box_right h3 {
-   color: #ccc;
+   color: #333;
    font-size: 25px;
    line-height: 1;
    margin-bottom: 0px;
