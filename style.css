@@ -220,6 +220,7 @@ h1.title.active {
 /* Ongoing */
 .col.Ongoing .module1__position {
    background-color: #6CB901;
+   border-color: #6CB901;
 }
 
 .col.Ongoing .module1__position span {
@@ -228,6 +229,7 @@ h1.title.active {
 
 .col.Ongoing .module1__number {
    background-color: #6CB901;
+   border-color: #6CB901;
 }
 
 .col.Ongoing .module1__number h5 {
@@ -241,11 +243,13 @@ h1.title.active {
 .col.Ongoing .module1__date span {
    background-color: #6CB901;
    color: #fff;
+   border-color: #6CB901;
 }
 
 /* Upcoming */
 .col.Upcoming .module1__position {
    background-color: #F76402;
+   border-color: #F76402;
 }
 
 .col.Upcoming .module1__position span {
@@ -254,6 +258,7 @@ h1.title.active {
 
 .col.Upcoming .module1__number {
    background-color: #F76402;
+   border-color: #F76402;
 }
 
 .col.Upcoming .module1__number h5 {
@@ -267,11 +272,13 @@ h1.title.active {
 .col.Upcoming .module1__date span {
    background-color: #F76402;
    color: #fff;
+   border-color: #F76402;
 }
 
 /* Finished */
 .col.Finished .module1__position {
    background-color: #7952B3;
+   border-color: #7952B3;
 }
 
 .col.Finished .module1__position span {
@@ -280,6 +287,7 @@ h1.title.active {
 
 .col.Finished .module1__number {
    background-color: #7952B3;
+   border-color: #7952B3;
 }
 
 .col.Finished .module1__number h5 {
@@ -293,4 +301,5 @@ h1.title.active {
 .col.Finished .module1__date span {
    background-color: #7952B3;
    color: #fff;
+   border-color: #7952B3;
 }
