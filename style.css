@@ -60,7 +60,7 @@ h2 {
    margin-bottom: 13px;
 }
 
-.heading1__box_left p {
+h5 {
    font-size: 18px;
    font-weight: bold;
    color: #333;
@@ -68,7 +68,7 @@ h2 {
    margin-bottom: 0px;
 }
 
-.heading1__box_left p span:nth-child(2) {
+.heading1__box_left h5 span:nth-child(2) {
    margin-left: 50px;
 }
 
