@@ -116,6 +116,10 @@ h1.title.active {
    color: #6E7276;
 }
 
+.module1__date > span {
+   border: 1px solid #D0D6DD;
+}
+
 .module1__date span {
    font-size: 12px;
    font-weight: bold;
