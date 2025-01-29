@@ -40,12 +40,13 @@ h1.title.active {
    border-radius: 10px;
    margin-bottom: 24px;
    padding-top: 40px;
-   padding-bottom: 0px;
+   padding-bottom: 40px;
    min-height: 118px;
 }
 
 .heading1__box_left {
    padding-left: 25px;
+   padding-top: 4px;
 }
 
 .heading1__box_left h2 {
