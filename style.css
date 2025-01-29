@@ -6,6 +6,14 @@ body {
    padding-bottom: 6px;
 }
 
+a {
+   color: #2B2B2D;
+}
+
+b {
+   color: #2B2B2D;
+}
+
 /* heading1__box */
 .heading1__box {
    padding-top: 24px;
