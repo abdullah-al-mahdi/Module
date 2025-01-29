@@ -96,6 +96,7 @@ h1.title.active {
 
 .module1__number {
    background-color: #F2F2F2;
+   border: 1px solid #D0D6DD;
    width: 80px;
    height: 60px;
    border-radius: 5px;
@@ -120,6 +121,7 @@ h1.title.active {
    font-weight: bold;
    font-style: italic;
    background-color: #F2F2F2;
+   border: 1px solid #D0D6DD;
    padding: 4px 10px;
    border-radius: 15px;
    color: #6E7276;
@@ -127,6 +129,7 @@ h1.title.active {
 
 .module1__position {
    background-color: #F2F2F2;
+   border: 1px solid #D0D6DD;
    width: 80px;
    height: 60px;
    border-radius: 5px;
@@ -134,7 +137,7 @@ h1.title.active {
 }
 
 .module1__position span {
-   color: #6E7276;
+   color: #2B2B2D;
    font-size: 13px;
    font-weight: bold;
 }
