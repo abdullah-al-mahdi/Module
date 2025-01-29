@@ -118,15 +118,15 @@ h1.title.active {
 
 .module1__date > span {
    border: 1px solid #D0D6DD;
+   background-color: #F2F2F2;
+   padding: 4px 10px;
+   border-radius: 15px;
 }
 
 .module1__date span {
    font-size: 12px;
    font-weight: bold;
    font-style: italic;
-   background-color: #F2F2F2;
-   padding: 4px 10px;
-   border-radius: 15px;
    color: #6E7276;
 }
 
