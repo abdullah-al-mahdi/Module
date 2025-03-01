@@ -166,7 +166,7 @@ h1.title.Finished {
 
 .module1__content li {
    list-style-type: none;
-   display: inline;
+   display: inline-block;
    position: relative;
    padding-left: 20px;
 }
