@@ -196,7 +196,7 @@ h1.title.Finished {
    color: #6E7276;
 }
 
-/* wp_danger */
+/* Finished */
 .module1__content h2 span.wp_danger {
    color: #0d6efd;
 }
@@ -210,7 +210,7 @@ h1.title.Finished {
    text-decoration: underline;
 }
 
-/* ui_danger */
+/* Upcoming */
 .module1__content h2 span.ui_danger {
    color: #198754;
 }
