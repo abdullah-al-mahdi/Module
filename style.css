@@ -192,31 +192,21 @@ h1.title.Finished {
 }
 
 /* Finished */
-.module1__content h2 span.wp_danger {
+.Finished.WordPress ul li {
    color: #0d6efd;
 }
 
-.module1__content li.wp_danger::before {
-   color: #F76402;
-}
-
-.module1__content li.wp_danger span {
-   color: #0d6efd;
-   text-decoration: underline;
+.Finished.Ui ul li {
+   color: #198754;
 }
 
 /* Upcoming */
-.module1__content h2 span.ui_danger {
-   color: #198754;
+.Upcoming.WordPress ul li {
+   color: #0d6efd;
 }
 
-.module1__content li.ui_danger::before {
-   color: #F76402;
-}
-
-.module1__content li.ui_danger span {
+.Upcoming.Ui ul li {
    color: #198754;
-   text-decoration: underline;
 }
 
 /* Ongoing */
