@@ -188,9 +188,6 @@ h1.title.Finished {
 
 .module1__content li {
    margin-right: 5px;
-}
-
-.module1__content li span {
    font-size: 13px;
    font-style: italic;
    color: #6E7276;
