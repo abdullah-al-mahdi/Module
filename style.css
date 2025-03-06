@@ -169,6 +169,10 @@ h1.title.Finished {
    display: inline-block;
    position: relative;
    padding-left: 20px;
+   margin-right: 5px;
+   font-size: 13px;
+   font-style: italic;
+   color: #6E7276;
 }
 
 .module1__content li::before {
@@ -180,17 +184,11 @@ h1.title.Finished {
    color: #6E7276;
    left: 0px;
    top: 2px;
+   font-style: normal;
 }
 
 .module1__content li.date::before {
    content: '\f133';
-}
-
-.module1__content li {
-   margin-right: 5px;
-   font-size: 13px;
-   font-style: italic;
-   color: #6E7276;
 }
 
 /* Finished */
